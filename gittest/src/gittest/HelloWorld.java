@@ -6,11 +6,10 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("HelloWorld!!!!!");
 		System.out.println("¾È³çÇÏ¼¼¿ä");
-<<<<<<< HEAD
+
 		System.out.println("¸¶½ºÅÍ ÀÛ¾÷Áß");
-=======
+
 		
->>>>>>> refs/heads/ì‹¤í—˜
 
 	}
 	public int sum() {
