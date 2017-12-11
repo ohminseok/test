@@ -6,6 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("HelloWorld!!!!!");
 		System.out.println("안녕하세요");
+		System.out.println("마스터 작업중");
 
 	}
 
